@@ -25,6 +25,8 @@ A simple Python project dedicated to run the programming exercise above. A proje
 This *mandatory* file describes both the table of content and the programming project(s). The file path should not be changed.
 
 
+
+
 # Visual and Interactive Content
 
 Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal within your contribution. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
